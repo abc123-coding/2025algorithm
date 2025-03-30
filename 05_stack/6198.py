@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/6198
-# 배열로 풀면 시간 초과
+# 배열로 풀면 시간 초과 
 
 def solution(heights):
 
